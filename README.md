@@ -7,7 +7,7 @@ PreRequisites:
 
 Usage:
 
-GitHub URL: https://github.com/chatakonda/airport-baggage-system
+GitHub URL: https://github.com/RajuRudraraju/Airport_Baggage
 
 1. Clone the above github URL project and run "mvn clean package"
 
